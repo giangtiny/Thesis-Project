@@ -1,0 +1,17 @@
+linters:
+    enable:
+        - unparam
+        - unconvert
+        - megacheck
+        - staticcheck
+        - unused
+        - gosimple
+        - dupl
+        - goconst
+        - gocyclo
+        - nakedret
+        - gocritic
+        - misspell
+        - dupword
+        - whitespace
+        - errcheck

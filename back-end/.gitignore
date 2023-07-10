@@ -1,0 +1,6 @@
+/server/lastupdate.tmp
+/server/beego
+/.idea/
+/server/routers/comment*.go
+/server/static/images
+/server/server.exe

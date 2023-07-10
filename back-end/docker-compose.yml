@@ -1,0 +1,38 @@
+version: "3"
+
+services:
+  beego:
+    build:
+      context: .
+      target: tbb-image-beego
+    container_name: tbb-be
+    image: tbb-image-beego
+    volumes:
+      - ./server:/go/src/beego
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongodb
+    working_dir: /go/src/beego
+    command: sh -c "go mod tidy && bee generate routers && bee run"
+    # docker exec -it tre-booking-beego bash -c "go mod tidy && bee run"
+    # docker exec -it tre-booking-beego golangci-lint run
+    restart: unless-stopped
+    tty: true
+  mongodb:
+    image: mongo
+    container_name: tbb-db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=c6MV5hvJebRn7KXa
+    volumes:
+      - db:/data/db
+    ports:
+      - 27017:27017
+    restart: unless-stopped
+    tty: true
+# run following command to interact with server mongodb: docker exec -it tre-booking-mongodb mongosh
+
+volumes:
+  db:
+    name: mongodb
