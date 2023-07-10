@@ -1,0 +1,32 @@
+const CHECKIN_TEXT = 'Nhận phòng';
+
+const CHECKOUT_TEXT = 'Trả phòng';
+
+const NUM_OF_CUSTOMER_TEXT = 'Số lượng khách';
+
+const CANCEL_POLICY_TEXT = 'Chính sách hủy phòng';
+
+const TAX_POLICY_TEXT = 'Chính sách thuế';
+
+const SUM_BEFORE_TAX_TEXT = 'Tổng trước thuế';
+
+const BOOK_NOW_TEXT = 'Đặt phòng ngay';
+
+const RESET_DATE = 'Xóa ngày';
+
+const RECEIVE_ROOM_TEXT = 'Nhận phòng';
+
+const RETURN_ROOM_TEXT = 'Trả phòng';
+
+export const DETAILS_TEXT = {
+  CHECKIN_TEXT: CHECKIN_TEXT,
+  CHECKOUT_TEXT: CHECKOUT_TEXT,
+  NUM_OF_CUSTOMER_TEXT: NUM_OF_CUSTOMER_TEXT,
+  CANCEL_POLICY_TEXT: CANCEL_POLICY_TEXT,
+  TAX_POLICY_TEXT: TAX_POLICY_TEXT,
+  BOOK_NOW_TEXT: BOOK_NOW_TEXT,
+  SUM_BEFORE_TAX_TEXT: SUM_BEFORE_TAX_TEXT,
+  RESET_DATE: RESET_DATE,
+  RECEIVE_ROOM_TEXT: RECEIVE_ROOM_TEXT,
+  RETURN_ROOM_TEXT: RETURN_ROOM_TEXT
+};

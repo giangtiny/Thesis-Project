@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  tre-bay-fe:
+    build: .
+    image: tre-bay-fe
+    ports:
+      - '3000:3000'
