@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  admin:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: tre-booking-admin-admin-1
+    image: tre-booking-admin-admin-1
+    ports:
+      - '4173:4173'
+    command: sh -c "yarn serve"

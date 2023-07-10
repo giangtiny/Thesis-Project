@@ -1,0 +1,205 @@
+{
+  "hotel": [
+    {
+      "id": "1",
+      "name": "Khách sạn Thủy Vân",
+      "address": "222/2B Hạ Long, Phường 19, Quận 20, TP.Vũng tàu",
+      "description": "Ngôi nhà đồng quê hình Tongita nằm ở Làng nghệ thuật gốm Icheon. Đây là một ngôi nhà riêng rộng rãi với sân thượng ở tầng ba của Sera và các trung tâm văn hóa khác, nổi tiếng với ngoại thất độc đáo trong hai nghìn ngôi làng nghệ thuật gốm sứ hòa quyện rất tốt với thiên nhiên. Tận hưởng một kỳ nghỉ thư giãn về cảm xúc trong một căn phòng ấm cúng và ấm áp. Bạn có thể tận hưởng khung cảnh tự nhiên thoáng đãng từ vị trí 3 tầng của ngôi làng mà không cần các tòa nhà cao tầng, hoặc picnic trên bãi cỏ trước Tongita House. Nếu bạn muốn, bạn cũng có thể tham gia các bài học ukurelle ở tầng một của tòa nhà, đó là một hội thảo và địa điểm tự làm. Cách ga Icheon 15 phút lái xe và cách ga Sindun 8 phút lái xe. Nếu bạn mang theo xe, bạn sẽ mất chưa đến một giờ từ Seoul và có chỗ đỗ xe. Đây là một chỗ ở khổng lồ theo hình Tongita. Chỗ ở tầng 3 nằm ở trên cùng của cây guitar nằm và bạn có thể tận hưởng một không gian vui vẻ trong khi nghỉ ngơi trên cây guitar. Cha tôi, một thợ guitar thủ công, sử dụng tầng một làm hội thảo và địa điểm làm hàng hải thủ công. Các bài học Ukurelle cũng có sẵn nếu bạn muốn. Cầu thang lên tầng ba tách biệt bên ngoài tòa nhà, vì vậy bạn có thể lên xuống một cách dễ dàng. Tầng ba gồm một ngôi nhà riêng và sân thượng rộng rãi nằm trước chỗ ở có thể được sử dụng một mình.",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/f4f7b242-db33-46fc-9080-c3d6a6fd55ec.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/372e7d6f-7fb9-4668-92f0-25bb9a346814.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/4756e699-f474-4ca7-8b77-06b12715a6cb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/36d8007a-0de5-439d-9fec-1c2d7b53a147.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d0e3bb05-a96a-45cf-af92-980269168096.jpg?im_w=720"
+      ],
+      "star": "5.0",
+      "ratingCount": 3,
+      "price": 200000
+    },
+    {
+      "id": 2,
+      "name": "Khách sạn Thủy Vân",
+      "address": "222/2B Hạ Long, Phường 19, Quận 20, TP.Vũng tàu",
+      "description": "Ngôi nhà đồng quê hình Tongita nằm ở Làng nghệ thuật gốm Icheon. Đây là một ngôi nhà riêng rộng rãi với sân thượng ở tầng ba của Sera và các trung tâm văn hóa khác, nổi tiếng với ngoại thất độc đáo trong hai nghìn ngôi làng nghệ thuật gốm sứ hòa quyện rất tốt với thiên nhiên. Tận hưởng một kỳ nghỉ thư giãn về cảm xúc trong một căn phòng ấm cúng và ấm áp. Bạn có thể tận hưởng khung cảnh tự nhiên thoáng đãng từ vị trí 3 tầng của ngôi làng mà không cần các tòa nhà cao tầng, hoặc picnic trên bãi cỏ trước Tongita House. Nếu bạn muốn, bạn cũng có thể tham gia các bài học ukurelle ở tầng một của tòa nhà, đó là một hội thảo và địa điểm tự làm. Cách ga Icheon 15 phút lái xe và cách ga Sindun 8 phút lái xe. Nếu bạn mang theo xe, bạn sẽ mất chưa đến một giờ từ Seoul và có chỗ đỗ xe. Đây là một chỗ ở khổng lồ theo hình Tongita. Chỗ ở tầng 3 nằm ở trên cùng của cây guitar nằm và bạn có thể tận hưởng một không gian vui vẻ trong khi nghỉ ngơi trên cây guitar. Cha tôi, một thợ guitar thủ công, sử dụng tầng một làm hội thảo và địa điểm làm hàng hải thủ công. Các bài học Ukurelle cũng có sẵn nếu bạn muốn. Cầu thang lên tầng ba tách biệt bên ngoài tòa nhà, vì vậy bạn có thể lên xuống một cách dễ dàng. Tầng ba gồm một ngôi nhà riêng và sân thượng rộng rãi nằm trước chỗ ở có thể được sử dụng một mình.",
+      "images": [
+        "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/f4f7b242-db33-46fc-9080-c3d6a6fd55ec.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/372e7d6f-7fb9-4668-92f0-25bb9a346814.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/4756e699-f474-4ca7-8b77-06b12715a6cb.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-34113796/original/36d8007a-0de5-439d-9fec-1c2d7b53a147.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/d0e3bb05-a96a-45cf-af92-980269168096.jpg?im_w=720"
+      ],
+      "star": "5.0",
+      "ratingCount": 3,
+      "price": 200000
+    }
+  ],
+  "rooms": [
+    [
+      { "id": "1", "roomNo": 201, "beds": 3, "available": true },
+      { "id": "2", "roomNo": 202, "beds": 2, "available": false },
+      { "id": "3", "roomNo": 203, "beds": 1, "available": true },
+      { "id": "4", "roomNo": 204, "beds": 3, "available": true },
+      { "id": "5", "roomNo": 205, "beds": 2, "available": true },
+      { "id": "6", "roomNo": 206, "beds": 2, "available": false },
+      { "id": "7", "roomNo": 207, "beds": 3, "available": false }
+    ],
+    [
+      { "id": "8", "roomNo": 101, "beds": 3, "available": true },
+      { "id": "9", "roomNo": 102, "beds": 2, "available": false },
+      { "id": "10", "roomNo": 103, "beds": 3, "available": true },
+      { "id": "11", "roomNo": 104, "beds": 1, "available": false },
+      { "id": "12", "roomNo": 105, "beds": 2, "available": true },
+      { "id": "13", "roomNo": 106, "beds": 3, "available": true },
+      { "id": "14", "roomNo": 107, "beds": 1, "available": false },
+      { "id": "15", "roomNo": 108, "beds": 2, "available": true },
+      { "id": "16", "roomNo": 109, "beds": 1, "available": true },
+      { "id": "17", "roomNo": 110, "beds": 3, "available": false }
+    ]
+  ],
+  "room": [
+    {
+      "id": "1",
+      "roomNo": 201,
+      "numberOfBeds": 3,
+      "available": true,
+      "dayPrice": 500000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "2",
+      "roomNo": 202,
+      "numberOfBeds": 2,
+      "available": false,
+      "dayPrice": 500000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "3",
+      "roomNo": 203,
+      "numberOfBeds": 1,
+      "available": true,
+      "dayPrice": 1000000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "4",
+      "roomNo": 204,
+      "numberOfBeds": 3,
+      "available": true,
+      "dayPrice": 1000000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "5",
+      "roomNo": 205,
+      "numberOfBeds": 2,
+      "available": true,
+      "dayPrice": 200000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "6",
+      "roomNo": 206,
+      "numberOfBeds": 2,
+      "available": false,
+      "dayPrice": 2000000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    },
+    {
+      "id": "7",
+      "roomNo": 207,
+      "numberOfBeds": 3,
+      "available": false,
+      "dayPrice": 500000,
+      "hotelId": 1,
+      "deposit": 50,
+      "cancelFee": 10
+    }
+  ],
+  "accounts": [
+    {
+      "ID": "1",
+      "username": "tranabc",
+      "password": "pass1234",
+      "email": "user1@gmail.com",
+      "role": "Nhân viên",
+      "userId": "1"
+    },
+    {
+      "ID": "2",
+      "UserName": "tranabc",
+      "Password": "pass1234",
+      "Email": "user2@gmail.com",
+      "Role": "Khách hàng",
+      "UserId": "2"
+    },
+    {
+      "ID": "3",
+      "UserName": "tranabc",
+      "Password": "pass1234",
+      "Email": "user3@gmail.com",
+      "Role": "Quản trị viên",
+      "UserId": "3"
+    }
+  ],
+  "users": [
+    {
+      "ID": "1",
+      "avatar": "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142344-7089.jpg",
+      "name": "Tran Canh",
+      "phoneNumber": "0987654321",
+      "address": "136 đường Phú Hưng, phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+      "username": "tranabc",
+      "password": "pass1234",
+      "email": "user1@gmail.com",
+      "role": "Nhân viên"
+    },
+    {
+      "ID": "2",
+      "avatar": "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142344-7089.jpg",
+      "name": "Tran Canh",
+      "phoneNumber": "0987654321",
+      "address": "136 đường Phú Hưng, phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+      "username": "tranabc",
+      "password": "pass1234",
+      "email": "user2@gmail.com",
+      "role": "Khách hàng"
+    },
+    {
+      "ID": "3",
+      "avatar": "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142344-7089.jpg",
+      "name": "Tran Canh",
+      "phoneNumber": "0987654321",
+      "address": "136 đường Phú Hưng, phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+      "username": "tranabc",
+      "password": "pass1234",
+      "email": "user3@gmail.com",
+      "role": "Quản trị viên"
+    }
+  ],
+  "user": {
+    "ID": "1",
+    "Avatar": "https://file4.batdongsan.com.vn/2020/06/03/JGcIp0rf/20200603142344-7089.jpg",
+    "Name": "Tran Canh",
+    "PhoneNumber": "0987654321",
+    "Address": "136 đường Phú Hưng, phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+    "UserName": "tranabc",
+    "Password": "pass1234",
+    "Email": "user1@gmail.com",
+    "Role": "Nhân viên"
+  }
+}

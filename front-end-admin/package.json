@@ -1,0 +1,53 @@
+{
+  "name": "tre-booking-admin",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "serve": "yarn build && yarn preview",
+    "server:mock": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/carousel": "^5.7.1",
+    "@mantine/core": "^5.7.2",
+    "@mantine/dates": "^5.7.1",
+    "@mantine/dropzone": "^5.8.3",
+    "@mantine/form": "^5.7.1",
+    "@mantine/hooks": "^5.7.2",
+    "@mantine/modals": "^5.7.1",
+    "@mantine/notifications": "^5.9.2",
+    "@reduxjs/toolkit": "^1.9.0",
+    "@tabler/icons": "^1.111.0",
+    "@types/googlemaps": "^3.43.3",
+    "axios": "^1.2.0",
+    "dayjs": "^1.11.6",
+    "embla-carousel-react": "^7.0.5",
+    "google-maps-react": "^2.0.6",
+    "mantine-datatable": "^1.7.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-map-picker": "^1.2.3",
+    "react-photo-album": "^1.16.1",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.3",
+    "react-to-print": "^2.14.10",
+    "redux-logger": "^3.0.6",
+    "vite-plugin-svgr": "^2.2.2",
+    "xlsx": "^0.18.5",
+    "xlsx-js-style": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/redux-logger": "^3.0.9",
+    "@vitejs/plugin-react": "^2.2.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3"
+  }
+}
